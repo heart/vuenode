@@ -1,6 +1,6 @@
 # myweb
 
-> A Vue.js project
+> A Vue.js project with node.js as a restful api server
 
 ## Build Setup
 
@@ -8,8 +8,8 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# serve with hot reload at localhost:8080 and start nodejs rest api at localhost:8081
+npm start
 
 # build for production with minification
 npm run build
